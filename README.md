@@ -47,3 +47,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatthewOhimai&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+
+<p align="center">
+  <em>“Sometimes who you become while chasing your goal is actually better than hitting your goal”</em>
+</p>
